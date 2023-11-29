@@ -1,0 +1,12 @@
+[GTA_Vice_City]
+RAM=128 MB
+GPU=32 MB
+[Roblox]
+RAM=2 GB
+GPU=1 GB
+[Cyberpunk_2007]
+RAM=12 GB
+GPU=8 GB
+[Grand_Theft_Auto_5]
+RAM=8 GB 
+GPU=2 GB
